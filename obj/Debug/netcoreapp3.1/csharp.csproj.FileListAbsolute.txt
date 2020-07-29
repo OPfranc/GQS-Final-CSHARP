@@ -1,0 +1,13 @@
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\bin\Debug\netcoreapp3.1\csharp.exe
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\bin\Debug\netcoreapp3.1\csharp.deps.json
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.json
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\bin\Debug\netcoreapp3.1\csharp.runtimeconfig.dev.json
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\bin\Debug\netcoreapp3.1\csharp.dll
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\bin\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.csprojAssemblyReference.cache
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfoInputs.cache
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.AssemblyInfo.cs
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.csproj.CoreCompileInputs.cache
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.dll
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.pdb
+C:\Users\darks\Desktop\AULAS\desafio final\csharp\obj\Debug\netcoreapp3.1\csharp.genruntimeconfig.cache
